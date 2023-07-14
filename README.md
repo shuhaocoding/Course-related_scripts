@@ -1,1 +1,2 @@
-# Here are some scripts that I wrote while working and taking courses. 
+# Course-related scripts
+To advance my coding skills I took various courses, here are some codes to solve course problems.
