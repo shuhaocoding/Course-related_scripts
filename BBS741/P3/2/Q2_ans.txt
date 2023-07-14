@@ -1,0 +1,2 @@
+The model is most accurate for HepG2 and least accurate for MCF-7.
+The OOB curve suggests that a tree size of ~600 is enough to stabilize the out of bag (OOB) error. 

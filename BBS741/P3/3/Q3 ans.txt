@@ -1,0 +1,6 @@
+The MDA curve suggests that only a small proportion of motifs contribute significantly to FOXA1 binding. 
+Other factors:
+HEK293T: HOX factors
+HepG2: HNF4
+K562: GATA
+MCF-7: HNF4, GATA
